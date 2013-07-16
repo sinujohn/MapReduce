@@ -7,6 +7,12 @@ import java.io.IOException;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.WritableComparable;
 
+/**
+ * 
+ * @author Sinu John
+ * www.sinujohn.wordpress.com
+ *
+ */
 public class IndexTuple implements WritableComparable<IndexTuple> {
 
 	private LongWritable first;

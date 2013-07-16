@@ -4,6 +4,12 @@ import java.util.Arrays;
 
 import org.apache.hadoop.io.ArrayWritable;
 
+/**
+ * 
+ * @author Sinu John
+ * www.sinujohn.wordpress.com
+ *
+ */
 public class IndexTupleArray extends ArrayWritable {
 
 	public IndexTupleArray() {
